@@ -1,0 +1,133 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Profiling
+.prof
+
+# Local scripts/logs
+logs/
+*.log
+
+# dotenv environment variables
+.env
+.env.*
+*.env
+
+# Added by Git Repo Creator
+# Media and Archives
+*.7z
+*.aac
+*.avi
+*.blend
+*.flac
+*.flv
+*.gz
+*.iso
+*.jpeg
+*.jpg
+*.m4a
+*.mkv
+*.mov
+*.mp3
+*.mp4
+*.ogg
+*.png
+*.rar
+*.tar
+*.wav
+*.webm
+*.wmv
+*.zip
+# AI Models
+*.bin
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+# Python / Dev
+checkpoints/
+model_cache/
+models/
+node_modules/
+.env.local
+Thumbs.db
+.DS_Store
+*.tmp
+*.bak
+
+# Added by Git Repo Creator
+# Media, Archives, and AI Models
+# GitHub Actions
+.github/
