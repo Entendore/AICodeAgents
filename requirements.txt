@@ -1,0 +1,8 @@
+streamlit
+crewai
+ollama
+langchain-ollama
+langchain-community
+duckduckgo-search
+python-dotenv
+textwrap3
